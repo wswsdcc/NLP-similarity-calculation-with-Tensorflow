@@ -1,7 +1,7 @@
 ## Task Information
 This is a learning conpetition organized by ATEC.
 
-More information here[https://dc.cloud.alipay.com/index#/topic/intro].
+More information [here](https://dc.cloud.alipay.com/index#/topic/intro).
 
 ## Environment
 ```
