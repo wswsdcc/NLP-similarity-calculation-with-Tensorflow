@@ -1,6 +1,6 @@
 ## Structure Update
 1. Use chinese character instead of word cut by jieba
-2. Useword vector trained with Zhihu corpus from https://github.com/Embedding/Chinese-Word-Vectors[https://github.com/Embedding/Chinese-Word-Vectors]
+2. Useword vector trained with Zhihu corpus from https://github.com/Embedding/Chinese-Word-Vectors
 3. Cut the number of hidden units in each layer of lstm stucture by half
 4. Calculate the number of predicted values which is true, test accuracy, train loss and test loss to tracking problem
    
