@@ -1,6 +1,6 @@
 ## Structure
 1. Use jieba for Chinese word segmentation
-2. Use word vector trained with BaiduBaike corpus from https://github.com/Embedding/Chinese-Word-Vectors[https://github.com/Embedding/Chinese-Word-Vectors]
+2. Use word vector trained with BaiduBaike corpus from https://github.com/Embedding/Chinese-Word-Vectors
 3. Align every sentence to max sentence length. Fill the missing length with zeros.
 4. 2 3-layered-lstm stuctures for featuring 2 input sentences
 5. Compute cosine similarity of the last time-step outputs of the two lstm stucture
