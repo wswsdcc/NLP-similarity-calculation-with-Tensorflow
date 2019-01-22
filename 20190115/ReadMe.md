@@ -1,5 +1,5 @@
 ## Structure
-same as the version of 20190114
+Same as the version of 20190114
 
 ## Update
 - Feed the model with batch
