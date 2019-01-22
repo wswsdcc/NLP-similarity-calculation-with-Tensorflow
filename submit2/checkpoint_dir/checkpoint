@@ -1,0 +1,2 @@
+model_checkpoint_path: "model20190116.model"
+all_model_checkpoint_paths: "model20190116.model"
